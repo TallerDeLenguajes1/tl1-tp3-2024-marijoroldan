@@ -80,6 +80,7 @@ iOSInjectionProject/
 ### Objective-C Patch ###
 
 ### VisualStudioCode ###
+.vscode/
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
